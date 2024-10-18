@@ -16,3 +16,4 @@
 - Teensy Audio Shield
 - Midi in
 - simple UI (buttons, dials, ...)
+- high quality SD card
