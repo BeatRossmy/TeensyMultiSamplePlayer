@@ -11,6 +11,9 @@
 - https://github.com/otem/Eurorack/tree/master/Samps2
 - https://github.com/newdigate/teensy-variable-playback
 
+## Helpers
+- wav to raw conversion https://henquist.github.io/0.6.3/coefficients_from_wav.html
+
 ## Components
 - Teensy 4.1
 - Teensy Audio Shield
